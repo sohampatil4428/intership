@@ -19,8 +19,8 @@ print(type(numbers))
 #       0           1           2       3           4
 brands = ["Apple", "Microsoft", "Google", "Amazon", "Oracle"]
 #         -5          -4          -3          -2      -1
-print(brands[2])
-print(brands[-3])
+# print(brands[2])
+# print(brands[-3])
 
 # Slicing => accesing a portion of list
 print(brands[1:4])
